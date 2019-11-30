@@ -1,8 +1,8 @@
-** Simple Face Recognition with OpenCV
+# Simple Face Recognition with OpenCV
 
 * * *
 
-*OpenCV
+* OpenCV
 OpenCV is one of the most popular library for computer vision. Originally written in C and C++,
 it now provides support for Python
 * How does it work?
